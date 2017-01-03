@@ -9,7 +9,7 @@ Pro :
 Con: 
  - Without cash, no pub
  - Without pub, nobody
- - Without people ... nobody
+ - Nobody ... nobody
 
 ## Account
 
