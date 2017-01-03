@@ -1,5 +1,16 @@
 # Tinder like app with gamification
 
+Pro : 
+ - Find someone with same interest, can be
+   - Someone other sex to f-ck
+   - Someone same sex to play video game
+ - Fun game
+
+Con: 
+ - Without cash, no pub
+ - Without pub, nobody
+ - Without people ... nobody
+
 ## Account
 
 When user create an account, he have to:
