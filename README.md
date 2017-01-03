@@ -60,8 +60,11 @@ Informations are tagged in multiple category:
 
 #### Ressources
 
- Every day the user win a new chest who contain:
+Every day the user win a new chest who contain:
   - description point: to add informations about you
   - rate point: to rate [A] VS [B]
-  - skin: equipement, hair style or color for the avatar
   - superbonbon: +1 relation with someone
+  - skin: hair style or color for the avatar
+  - equipement: Helmet, chest, shoes, hand (flowers) with special skills (+2% music rake) 
+  
+Commercialisation: Igloofest can pay us to create an "IglooFest hat" who can be earn by going to an event.
